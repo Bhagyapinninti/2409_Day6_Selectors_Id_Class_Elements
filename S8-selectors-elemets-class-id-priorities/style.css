@@ -1,0 +1,41 @@
+#mainheading {
+  text-align: center;
+  background-color: midnightblue;
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 50px;
+  color: beige;
+  text-shadow: 10px 10px 10px darkred;
+  box-shadow: 10px 10px 10px black;
+}
+img {
+  width: 300px;
+  height: 300px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border: 3px solid darkred;
+}
+
+p {
+  display: inline-block;
+  width: 1000px;
+  height: 300px;
+  overflow: auto;
+  text-align: justify;
+}
+
+#body {
+  background-color: lightseagreen;
+}
+.tollywood {
+  background-color: lightgreen;
+}
+.bollywood {
+  background-color: coral;
+}
+.kollywood {
+  background-color: mediumorchid;
+}
+.filmfareAwardWinners {
+  border-radius: 50%;
+}
